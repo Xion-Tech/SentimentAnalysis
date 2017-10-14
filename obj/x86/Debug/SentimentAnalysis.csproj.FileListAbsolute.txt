@@ -1,0 +1,19 @@
+E:\XION TECH\Professional Projects\Kalyani Gaikawad\Module 2\SentimentAnalysis\SentimentAnalysis\obj\x86\Debug\SentimentAnalysis.MainForm.resources
+E:\XION TECH\Professional Projects\Kalyani Gaikawad\Module 2\SentimentAnalysis\SentimentAnalysis\obj\x86\Debug\SentimentAnalysis.Properties.Resources.resources
+E:\XION TECH\Professional Projects\Kalyani Gaikawad\Module 2\SentimentAnalysis\SentimentAnalysis\obj\x86\Debug\SentimentAnalysis.csproj.GenerateResource.Cache
+E:\XION TECH\Professional Projects\Kalyani Gaikawad\Module 2\SentimentAnalysis\SentimentAnalysis\bin\Debug\SentimentAnalysis.exe
+E:\XION TECH\Professional Projects\Kalyani Gaikawad\Module 2\SentimentAnalysis\SentimentAnalysis\bin\Debug\SentimentAnalysis.pdb
+E:\XION TECH\Professional Projects\Kalyani Gaikawad\Module 2\SentimentAnalysis\SentimentAnalysis\obj\x86\Debug\SentimentAnalysis.exe
+E:\XION TECH\Professional Projects\Kalyani Gaikawad\Module 2\SentimentAnalysis\SentimentAnalysis\obj\x86\Debug\SentimentAnalysis.pdb
+E:\XION TECH\Professional Projects\Kalyani Gaikawad\Module 2\SentimentAnalysis\SentimentAnalysis\obj\x86\Debug\SentimentAnalysis.csprojResolveAssemblyReference.cache
+E:\XION TECH\Professional Projects\Kalyani Gaikawad\Module 2\SentimentAnalysis\SentimentAnalysis\bin\Debug\Aylien.TextApi.dll
+E:\XION TECH\Professional Projects\Kalyani Gaikawad\Module 2\SentimentAnalysis\SentimentAnalysis\bin\Debug\Cloo.dll
+E:\XION TECH\Professional Projects\Kalyani Gaikawad\Module 2\SentimentAnalysis\SentimentAnalysis\bin\Debug\MongoDB.Bson.dll
+E:\XION TECH\Professional Projects\Kalyani Gaikawad\Module 2\SentimentAnalysis\SentimentAnalysis\bin\Debug\MongoDB.Driver.dll
+E:\XION TECH\Professional Projects\Kalyani Gaikawad\Module 2\SentimentAnalysis\SentimentAnalysis\bin\Debug\Newtonsoft.Json.dll
+E:\XION TECH\Professional Projects\Kalyani Gaikawad\Module 2\SentimentAnalysis\SentimentAnalysis\bin\Debug\MongoDB.Bson.xml
+E:\XION TECH\Professional Projects\Kalyani Gaikawad\Module 2\SentimentAnalysis\SentimentAnalysis\bin\Debug\MongoDB.Driver.xml
+E:\XION TECH\Professional Projects\Kalyani Gaikawad\Module 2\SentimentAnalysis\SentimentAnalysis\bin\Debug\Newtonsoft.Json.xml
+E:\XION TECH\Professional Projects\Kalyani Gaikawad\Module 2\SentimentAnalysis\SentimentAnalysis\obj\x86\Debug\SentimentAnalysis.RSSConfg.resources
+E:\XION TECH\Professional Projects\Nitin Kharat\ImageSentimentAnalysis\SentimentAnalysis\obj\x86\Debug\SentimentAnalysis.exe
+E:\XION TECH\Professional Projects\Nitin Kharat\ImageSentimentAnalysis\SentimentAnalysis\obj\x86\Debug\SentimentAnalysis.pdb
